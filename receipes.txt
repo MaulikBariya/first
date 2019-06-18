@@ -4,6 +4,9 @@ pizza
 pasta
 khirr
 
+beans
+zingi parcel
+
 thanks for visiting
 
 final code
